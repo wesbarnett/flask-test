@@ -1,5 +1,6 @@
 [webservers]
 test.barnett.science
+test2.barnett.science
 
 [webservers:vars]
 app_name=flask-project
